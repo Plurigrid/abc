@@ -12,5 +12,6 @@ Implementations of the [Commons Stack](https://commonsstack.org/) for the Interc
 ## Contracts
 - `cw-abc` - [Augmented Bonding Curves]()
 - `cw-vrgda` - Variable Rate Generalized Dutch Auction
+- `cw-goo` - Gradual Ownership Optimization
 - `cw-sbt` - Soulbound Token variations true to the original DeSoc paper
 - more - as the Commons Stack matures and new use-cases emerge, we will add to this repository
