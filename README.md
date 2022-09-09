@@ -11,6 +11,6 @@ Implementations of the [Commons Stack](https://commonsstack.org/) for the Interc
 8. Build responsibility for governing the common resource in nested tiers from the lowest level up to the entire interconnected system.
 ## Contracts
 - `cw-abc` - [Augmented Bonding Curves]()
-- `cw-vrgda` - Variable Rate GDAs
+- `cw-vrgda` - Variable Rate Generalized Dutch Auction
 - `cw-sbt` - Soulbound Token variations true to the original DeSoc paper
-- ``
+- more - as the Commons Stack matures and new use-cases emerge, we will add to this repository
